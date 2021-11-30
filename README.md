@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/ignite-spacetraveling/blob/master/public/logo-github.svg" alt="Spacetraveling" />
+  <img src="https://github.com/gustavo-nt/ignite-ignews/blob/master/public/images/logo-github.svg" alt="ig.news" height="50" />
 </p>
 
 <h1 align="center">
@@ -38,7 +38,7 @@ Ig.news é uma aplicação que simula um "workflow" de um blog real, onde os usu
 
 ### 🖼 Demonstração
 <p>
-   <img src="https://github.com/gustavo-nt/ignite-spacetraveling/blob/master/public/post.png" alt="Post"/>
+   <img src="https://github.com/gustavo-nt/ignite-ignews/blob/master/public/images/home.png" alt="Home"/>
 </p>
 
 ### ⚙ Pré-requisitos
