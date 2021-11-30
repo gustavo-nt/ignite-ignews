@@ -34,7 +34,7 @@
 - [x] Acesso restrito aos Posts completos
 
 ### 💻 Projeto
-Ig.news é uma aplicação que simula um "workflow" de um blog real, onde os usuários para acesso total aos post, devem realizar uma assinatura mensal. Esse Projeto foi desenvolvido como aplicação principal da Semana 03 do Bootcamp Ignite.
+Ig.news é uma aplicação que simula um "workflow" de um blog real, onde os usuários para acesso total aos post, devem realizar uma assinatura mensal utilizando o stripe para pagamentos dessas subscriptions. Esse Projeto foi desenvolvido como aplicação principal da Semana 03 do Bootcamp Ignite.
 
 ### 🖼 Demonstração
 <p>
@@ -59,9 +59,6 @@ $ yarn ou npm
 # Execute a aplicação
 $ yarn ou npm dev
 
-# Rode o servidor fake
-$ yarn ou npm server
-
 # Execute os testes
 $ yarn test
 ```
@@ -80,6 +77,7 @@ Esse projeto foi utilizou das seguintes lib:
 
 - react-router-dom
 - react-icons
+- next-auth
 - date-fns
 - faunadb
 - prismic
