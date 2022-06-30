@@ -17,8 +17,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     if (req.method === 'POST') {
         const session = await getSession({ req });
 
-        console.log(session);
-
         const user = await fauna.query<User>(
             q.Get(
                 q.Match(
