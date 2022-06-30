@@ -35,6 +35,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
         let event: Stripe.Event;
 
+        console.log(secret);
         console.log(process.env.STRIPE_WEBHOOK_SECRET);
 
         try {
