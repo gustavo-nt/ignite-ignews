@@ -34,7 +34,7 @@
 - [x] Acesso restrito aos Posts completos
 
 ### 💻 Projeto
-Ig.news é uma aplicação que simula um "workflow" de um blog real, onde os usuários para acesso total aos post, devem realizar uma assinatura mensal utilizando o stripe para pagamentos dessas subscriptions. Esse Projeto foi desenvolvido como aplicação principal da Semana 03 do Bootcamp Ignite.
+Ig.news é uma aplicação que simula um "workflow" de um blog real, onde os usuários para acesso total aos post, devem realizar uma assinatura mensal utilizando o stripe para pagamentos dessas subscriptions. Esse Projeto foi desenvolvido na Semana 03 do Bootcamp Ignite.
 
 ### 🖼 Demonstração
 <p>
